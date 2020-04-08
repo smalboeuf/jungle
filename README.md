@@ -1,7 +1,18 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+An e-commerice app built using Rails 4.2
 
+## Main Page
+
+![MainPage](https://github.com/smalboeuf/jungle/blob/master/docs/MainPage.PNG)
+
+## User Cart
+
+![User Cart](https://github.com/smalboeuf/jungle/blob/master/docs/MyCart.PNG)
+
+## Admin Privileges
+
+![Admin Privileges](https://github.com/smalboeuf/jungle/blob/master/docs/AdminPermissions.PNG)
 
 ## Setup
 
