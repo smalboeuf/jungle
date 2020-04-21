@@ -1,18 +1,10 @@
 # Jungle
 
-An e-commerice app built using Rails 4.2
+An e-commerice app built using Rails 4.2 and has online transactions using Stripe.
 
-## Main Page
-
-![MainPage](https://github.com/smalboeuf/jungle/blob/master/docs/MainPage.PNG)
-
-## User Cart
-
-![User Cart](https://github.com/smalboeuf/jungle/blob/master/docs/MyCart.PNG)
-
-## Admin Privileges
-
-![Admin Privileges](https://github.com/smalboeuf/jungle/blob/master/docs/AdminPermissions.PNG)
+## User Stories
+- Someone who is a tech enthusiast and wants to buy something.
+- A shopper who just like to browse online stores.
 
 ## Setup
 
@@ -36,3 +28,15 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Main Page
+
+![MainPage](https://github.com/smalboeuf/jungle/blob/master/docs/MainPage.PNG)
+
+## User Cart
+
+![User Cart](https://github.com/smalboeuf/jungle/blob/master/docs/MyCart.PNG)
+
+## Admin Privileges
+
+![Admin Privileges](https://github.com/smalboeuf/jungle/blob/master/docs/AdminPermissions.PNG)
